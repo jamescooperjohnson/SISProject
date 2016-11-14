@@ -1,4 +1,3 @@
-
 public class Runner
 	{
 
@@ -6,7 +5,7 @@ public class Runner
 			{
 				// TODO Auto-generated method stub
 				//Kasha, Cooper, Marie
-				System.out.println();
+				System.out.println("hello");
 			}
 
 	}
